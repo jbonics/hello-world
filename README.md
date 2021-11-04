@@ -1,4 +1,5 @@
 # hello-world
-Daring to Struggle, Daring to Win.
+Daring to Struggle Daring to Win.
 
 BOOOM!
+Yes Indeedy.
